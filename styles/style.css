@@ -292,7 +292,7 @@
   width: 90%;
 }
 .footer__column {
-  display: flex; 
+  display: flex;
   flex-direction: column; 
 }
 .footer__column_content_copyright {
