@@ -1,9 +1,9 @@
 .khan__book-link {
-    height: 42px;
     line-height: 42px;
     font-size: 30px;
     font-weight: normal;
     text-decoration: none;
+    align-self: baseline;
     color: #2f80ed;
   }
   .khan__book-link:hover {
