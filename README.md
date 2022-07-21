@@ -35,3 +35,5 @@
 4. Анимации
 
 ---
+
+https://jesdray.github.io/how-to-learn/
